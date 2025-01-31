@@ -1,0 +1,1 @@
+This React Native code causes an error because the `useEffect` hook is used incorrectly. It's missing a dependency array, which will lead to an infinite loop.
